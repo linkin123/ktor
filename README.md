@@ -1,4 +1,4 @@
-* Use of Client Ktor
+* Use of Ktor Client
 * jetpack compose
 
   
